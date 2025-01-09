@@ -1,3 +1,3 @@
 # AAAI_cohort_stratification 
 
-Code for data prpeprocessin, modelling and evaluation will be updated soon in the meanwhile you can start by downloading rICU from here: https://github.com/eth-mds/ricu.
+Code for data preprocessing, modelling and evaluation will be updated soon in the meanwhile you can start by downloading and setting up to have the preprocess fst version of HiRID, eICU, MIIV, SiC  rICU from here: https://github.com/eth-mds/ricu.
